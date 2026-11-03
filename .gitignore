@@ -1,0 +1,25 @@
+# Credentials and Secret Tokens (CRITICAL: NEVER COMMIT THESE)
+credentials.json
+token.json
+client_secret*.json
+*.env
+
+# Python Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# User data
+data/feedback.csv
+
