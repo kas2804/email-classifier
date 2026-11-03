@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Email Classifier (SPAM, FRAUD, NORMAL)
+# AI-Powered Email Classifier (SPAM, FRAUD, NORMAL)
 
 A full-stack machine learning application that connects to Gmail and classifies inbox emails into **SPAM**, **FRAUD**, and **NORMAL** in real-time. Built with a Scikit-Learn TF-IDF + Logistic Regression pipeline, Streamlit frontend, and Google Gmail API integration.
 
@@ -7,11 +7,12 @@ A full-stack machine learning application that connects to Gmail and classifies 
 ## 📹 Demo Preview
 
 <!-- Replace the link below with your demo video, GIF, or YouTube link -->
-> **Watch the app in action:**
-> 
-> [![Email Classifier Demo](Screenshot%202025-08-29%20at%207.21.41%E2%80%AFPM.png)](demo.mp4)
-> 
-> *(Click to watch the demo video / preview)*
+
+
+https://github.com/user-attachments/assets/484f87a8-a980-47d9-9998-e07fa6083398
+
+
+> *(Click to watch the demo video)*
 
 ---
 
