@@ -1,4 +1,4 @@
-# AI-Powered Email Classifier (SPAM, FRAUD, NORMAL)
+# AI-Powered Email Classifier
 
 A full-stack machine learning application that connects to Gmail and classifies inbox emails into **SPAM**, **FRAUD**, and **NORMAL** in real-time. Built with a Scikit-Learn TF-IDF + Logistic Regression pipeline, Streamlit frontend, and Google Gmail API integration.
 
